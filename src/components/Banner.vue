@@ -1,14 +1,14 @@
 <template>
   <div>
-    <h1 class="banner">Kalman Vue Icon</h1>
+    <h1 class="banner">Kalman Vue Icon V2</h1>
     <div class="code">
       <div>
         <h3>Installation</h3>
-        <pre><code>npm install kalman-vue-icon --save<br/>yarn add kalman-vue-icon</code></pre>
+        <pre><code>npm install kalman-vue-icon-v2 --save<br/>yarn add kalman-vue-icon-v2</code></pre>
       </div>
       <div>
         <h3>Usage</h3>
-        <pre><code>import { IconHome } from 'kalman-vue-icon'<br/>&lt;IconHome color="#009C22" /&gt;</code></pre>
+        <pre><code>import { IconHome } from 'kalman-vue-icon-v2'<br/>&lt;IconHome color="#009C22" /&gt;</code></pre>
       </div>
     </div>
   </div>

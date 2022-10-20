@@ -5,7 +5,7 @@ import dts from 'vite-plugin-dts';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/kalman-vue3-icon/',
+  base: '/kalman-vue3-icon-v2/',
   plugins: [vue(), dts(),],
   resolve: {
     alias: {
